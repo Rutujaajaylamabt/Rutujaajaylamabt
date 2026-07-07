@@ -22,7 +22,6 @@ I am a passionate Computer Science Engineering student who enjoys building real-
 ### Programming Languages
 - Java
 - Python
-- JavaScript
 - SQL
 
 ### Frontend
@@ -30,27 +29,22 @@ I am a passionate Computer Science Engineering student who enjoys building real-
 - CSS
 - Bootstrap
 - Tailwind CSS
-- React.js
 
 ### Backend
 - Spring Boot
 - REST APIs
+- JDBC API
 
 ### Database
 - MySQL
 - PostgreSQL
-
-### Machine Learning
-- Pandas
-- NumPy
-- Scikit-learn
-- Random Forest
 
 ### Tools
 - Git
 - GitHub
 - VS Code
 - IntelliJ IDEA
+- Eclipse
 - Postman
 
 ---
