@@ -83,16 +83,15 @@ I am a passionate Computer Science Engineering student who enjoys building real-
 ## 🏆 Coding Profiles
 
 - 💻 GitHub: https://github.com/Rutujaajaylamabt
-- 🧩 LeetCode: *Add your profile link*
-- 💼 LinkedIn: *Add your profile link*
+- 🧩 LeetCode: https://leetcode.com/u/rutujalambat_18/
+- 💼 LinkedIn: https://www.linkedin.com/in/rutuja-lambat-684186258/
 
 ---
 
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/Rutujaajaylamabt
-- LinkedIn: *Add your LinkedIn URL*
-- Email: *Add your Email*
+- LinkedIn: https://www.linkedin.com/in/rutuja-lambat-684186258/
 
 ---
 
